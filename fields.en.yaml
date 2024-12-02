@@ -1,27 +1,38 @@
 Introduction:
   Background: {}
+  Preliminary statement: {}
 Geography:
-  Geographic overview: {}
+  Location: {}
+  Geographic coordinates: {}
+  Map references: {}
   Area: {}
   Area - comparative: {}
-  Area - rankings: {}
   Land boundaries: {}
   Coastline: {}
   Maritime claims: {}
   Climate: {}
   Terrain: {}
   Elevation: {}
+  Natural resources: {}
+  Land use: {}
   Irrigated land: {}
   Major lakes (area sq km): {}
   Major rivers (by length in km): {}
   Major watersheds (area sq km): {}
-  Major aquifers: {}
   Population distribution: {}
   Natural hazards: {}
-  Wonders of the World: {}
   Geography - note: {}
+  Major aquifers: {}
+  Ocean volume: {}
+  Major ocean currents: {}
+  Bathymetry: {}
+  Geographic overview: {}
+  Area - rankings: {}
+  Wonders of the World: {}
 People and Society:
   Population: {}
+  Nationality: {}
+  Ethnic groups: {}
   Languages: {}
   Religions: {}
   Age structure: {}
@@ -30,42 +41,86 @@ People and Society:
   Population growth rate: {}
   Birth rate: {}
   Death rate: {}
+  Net migration rate: {}
   Population distribution: {}
   Urbanization: {}
   Major urban areas - population: {}
   Sex ratio: {}
+  Mother's mean age at first birth: {}
   Maternal mortality ratio: {}
   Infant mortality rate: {}
   Life expectancy at birth: {}
   Total fertility rate: {}
+  Gross reproduction rate: {}
+  Contraceptive prevalence rate: {}
   Drinking water source: {}
+  Current health expenditure: {}
+  Physician density: {}
+  Hospital bed density: {}
   Sanitation facility access: {}
+  Obesity - adult prevalence rate: {}
+  Alcohol consumption per capita: {}
+  Tobacco use: {}
+  Children under the age of 5 years underweight: {}
   Currently married women (ages 15-49): {}
   Child marriage: {}
+  Education expenditures: {}
   Literacy: {}
   School life expectancy (primary to tertiary education): {}
+  Demographic profile: {}
+  Major infectious diseases: {}
+  People - note: {}
 Environment:
   Environment - current issues: {}
-  World biomes: {}
+  Environment - international agreements: {}
   Climate: {}
+  Land use: {}
   Urbanization: {}
+  Food insecurity: {}
+  Revenue from forest resources: {}
+  Revenue from coal: {}
+  Air pollutants: {}
+  Waste and recycling: {}
   Major lakes (area sq km): {}
   Major rivers (by length in km): {}
   Major watersheds (area sq km): {}
-  Major aquifers: {}
+  Total water withdrawal: {}
   Total renewable water resources: {}
+  Major aquifers: {}
+  Geoparks: {}
+  Marine fisheries: {}
+  World biomes: {}
 Government:
+  Country name: {}
+  Government type: {}
   Capital: {}
   Administrative divisions: {}
-  Dependent areas: {}
+  Independence: {}
+  National holiday: {}
   Legal system: {}
+  Constitution: {}
   International law organization participation: {}
+  Citizenship: {}
+  Suffrage: {}
   Executive branch: {}
   Legislative branch: {}
+  Judicial branch: {}
+  Political parties: {}
+  International organization participation: {}
+  Diplomatic representation in the US: {}
+  Diplomatic representation from the US: {}
   Flag description: {}
+  National symbol(s): {}
   National anthem: {}
   National heritage: {}
+  Dependent areas: {}
+  Government - note: {}
+  Union name: {}
+  Political structure: {}
+  Member states: {}
+  Dependency status: {}
 Economy:
+  Economic overview: {}
   Real GDP (purchasing power parity): {}
   Real GDP growth rate: {}
   Real GDP per capita: {}
@@ -79,41 +134,63 @@ Economy:
   Labor force: {}
   Unemployment rate: {}
   Youth unemployment rate (ages 15-24): {}
+  Population below poverty line: {}
   Remittances: {}
   Budget: {}
   Public debt: {}
   Taxes and other revenues: {}
+  Current account balance: {}
   Exports: {}
+  Exports - partners: {}
   Exports - commodities: {}
   Imports: {}
+  Imports - partners: {}
   Imports - commodities: {}
+  Reserves of foreign exchange and gold: {}
+  Debt - external: {}
+  Exchange rates: {}
+  Credit ratings: {}
+  Gini Index coefficient - distribution of family income: {}
+  Household income or consumption by percentage share: {}
+  Average household expenditures: {}
 Energy:
   Electricity access: {}
   Electricity: {}
   Electricity generation sources: {}
-  Nuclear energy: {}
   Coal: {}
   Petroleum: {}
   Natural gas: {}
   Carbon dioxide emissions: {}
   Energy consumption per capita: {}
+  Nuclear energy: {}
 Communications:
   Telephones - fixed lines: {}
   Telephones - mobile cellular: {}
   Telecommunication systems: {}
+  Broadcast media: {}
+  Internet country code: {}
   Internet users: {}
   Broadband - fixed subscriptions: {}
   Communications - note: {}
 Transportation:
+  National air transport system: {}
+  Civil aircraft registration country code prefix: {}
   Airports: {}
   Heliports: {}
-  Railways: {}
+  Pipelines: {}
+  Roadways: {}
   Waterways: {}
+  Railways: {}
   Merchant marine: {}
+  Ports: {}
+  Transportation - note: {}
 Military and Security:
+  Military and security forces: {}
   Military expenditures: {}
   Military and security service personnel strengths: {}
   Military equipment inventories and acquisitions: {}
+  Military service age and obligation: {}
+  Military - note: {}
   Military deployments: {}
 Terrorism:
   Terrorist group(s): {}
@@ -121,6 +198,8 @@ Transnational Issues:
   Refugees and internally displaced persons: {}
   Trafficking in persons: {}
   Illicit drugs: {}
+  Disputes - international: {}
 Space:
   Space agency/agencies: {}
   Space launch site(s): {}
+  Space program overview: {}
