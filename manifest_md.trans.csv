@@ -1,0 +1,261 @@
+,Code,Name,Category,Region,slug_Region,slug_Name,md_path,name_en,name_zh_Hans,name_zh_Hant
+0,af,Afghanistan,Countries,South Asia,south-asia,afghanistan,south-asia\afghanistan.md,Afghanistan,阿富汗,阿富汗
+1,al,Albania,Countries,Europe,europe,albania,europe\albania.md,Albania,阿尔巴尼亚,阿爾巴尼亞
+2,ag,Algeria,Countries,Africa,africa,algeria,africa\algeria.md,Algeria,阿尔及利亚,阿爾及利亞
+3,an,Andorra,Countries,Europe,europe,andorra,europe\andorra.md,Andorra,安道尔,安道爾
+4,ao,Angola,Countries,Africa,africa,angola,africa\angola.md,Angola,安哥拉,安哥拉
+5,ac,Antigua and Barbuda,Countries,Central America and Caribbean,central-america-n-caribbean,antigua-and-barbuda,central-america-n-caribbean\antigua-and-barbuda.md,Antigua & Barbuda,安提瓜和巴布达,安地卡及巴布達
+6,ar,Argentina,Countries,South America,south-america,argentina,south-america\argentina.md,Argentina,阿根廷,阿根廷
+7,am,Armenia,Countries,Middle East,middle-east,armenia,middle-east\armenia.md,Armenia,亚美尼亚,亞美尼亞
+8,as,Australia,Countries,Australia-Oceania,australia-oceania,australia,australia-oceania\australia.md,Australia,澳大利亚,澳洲
+9,au,Austria,Countries,Europe,europe,austria,europe\austria.md,Austria,奥地利,奧地利
+10,aj,Azerbaijan,Countries,Middle East,middle-east,azerbaijan,middle-east\azerbaijan.md,Azerbaijan,阿塞拜疆,亞塞拜然
+11,bf,"Bahamas, The",Countries,Central America and Caribbean,central-america-n-caribbean,bahamas-the,central-america-n-caribbean\bahamas-the.md,Bahamas,巴哈马,巴哈馬
+12,ba,Bahrain,Countries,Middle East,middle-east,bahrain,middle-east\bahrain.md,Bahrain,巴林,巴林
+13,bg,Bangladesh,Countries,South Asia,south-asia,bangladesh,south-asia\bangladesh.md,Bangladesh,孟加拉国,孟加拉
+14,bb,Barbados,Countries,Central America and Caribbean,central-america-n-caribbean,barbados,central-america-n-caribbean\barbados.md,Barbados,巴巴多斯,巴貝多
+15,bo,Belarus,Countries,Europe,europe,belarus,europe\belarus.md,Belarus,白俄罗斯,白俄羅斯
+16,be,Belgium,Countries,Europe,europe,belgium,europe\belgium.md,Belgium,比利时,比利時
+17,bh,Belize,Countries,Central America and Caribbean,central-america-n-caribbean,belize,central-america-n-caribbean\belize.md,Belize,伯利兹,貝里斯
+18,bn,Benin,Countries,Africa,africa,benin,africa\benin.md,Benin,贝宁,貝南
+19,bt,Bhutan,Countries,South Asia,south-asia,bhutan,south-asia\bhutan.md,Bhutan,不丹,不丹
+20,bl,Bolivia,Countries,South America,south-america,bolivia,south-america\bolivia.md,Bolivia,玻利维亚,玻利維亞
+21,bk,Bosnia and Herzegovina,Countries,Europe,europe,bosnia-and-herzegovina,europe\bosnia-and-herzegovina.md,Bosnia,波斯尼亚和黑塞哥维那,波士尼亞與赫塞哥維納
+22,bc,Botswana,Countries,Africa,africa,botswana,africa\botswana.md,Botswana,博茨瓦纳,波札那
+23,br,Brazil,Countries,South America,south-america,brazil,south-america\brazil.md,Brazil,巴西,巴西
+24,bx,Brunei,Countries,East & Southeast Asia,east-n-southeast-asia,brunei,east-n-southeast-asia\brunei.md,Brunei,文莱,汶萊
+25,bu,Bulgaria,Countries,Europe,europe,bulgaria,europe\bulgaria.md,Bulgaria,保加利亚,保加利亞
+26,uv,Burkina Faso,Countries,Africa,africa,burkina-faso,africa\burkina-faso.md,Burkina Faso,布基纳法索,布吉納法索
+27,bm,Burma,Countries,East & Southeast Asia,east-n-southeast-asia,burma,east-n-southeast-asia\burma.md,Myanmar,缅甸,緬甸
+28,by,Burundi,Countries,Africa,africa,burundi,africa\burundi.md,Burundi,布隆迪,蒲隆地
+29,cb,Cambodia,Countries,East & Southeast Asia,east-n-southeast-asia,cambodia,east-n-southeast-asia\cambodia.md,Cambodia,柬埔寨,柬埔寨
+30,cm,Cameroon,Countries,Africa,africa,cameroon,africa\cameroon.md,Cameroon,喀麦隆,喀麥隆
+31,ca,Canada,Countries,North America,north-america,canada,north-america\canada.md,Canada,加拿大,加拿大
+32,cv,Cabo Verde,Countries,Africa,africa,cabo-verde,africa\cabo-verde.md,Cape Verde,佛得角,維德角
+33,ct,Central African Republic,Countries,Africa,africa,central-african-republic,africa\central-african-republic.md,Central African Republic,中非共和国,中非共和國
+34,cd,Chad,Countries,Africa,africa,chad,africa\chad.md,Chad,乍得,查德
+35,ci,Chile,Countries,South America,south-america,chile,south-america\chile.md,Chile,智利,智利
+36,ch,China,Countries,East & Southeast Asia,east-n-southeast-asia,china,east-n-southeast-asia\china.md,China,中国,中國
+37,co,Colombia,Countries,South America,south-america,colombia,south-america\colombia.md,Colombia,哥伦比亚,哥倫比亞
+38,cn,Comoros,Countries,Africa,africa,comoros,africa\comoros.md,Comoros,科摩罗,葛摩
+39,cg,"Congo, Democratic Republic of the",Countries,Africa,africa,congo-democratic-republic-of-the,africa\congo-democratic-republic-of-the.md,Congo - Kinshasa,刚果（金）,剛果（金夏沙）
+40,cf,"Congo, Republic of the",Countries,Africa,africa,congo-republic-of-the,africa\congo-republic-of-the.md,Congo - Brazzaville,刚果（布）,剛果（布拉薩）
+41,cs,Costa Rica,Countries,Central America and Caribbean,central-america-n-caribbean,costa-rica,central-america-n-caribbean\costa-rica.md,Costa Rica,哥斯达黎加,哥斯大黎加
+42,iv,Cote d'Ivoire,Countries,Africa,africa,cote-divoire,africa\cote-divoire.md,Côte d’Ivoire,科特迪瓦,象牙海岸
+43,hr,Croatia,Countries,Europe,europe,croatia,europe\croatia.md,Croatia,克罗地亚,克羅埃西亞
+44,cu,Cuba,Countries,Central America and Caribbean,central-america-n-caribbean,cuba,central-america-n-caribbean\cuba.md,Cuba,古巴,古巴
+45,cy,Cyprus,Countries,Europe,europe,cyprus,europe\cyprus.md,Cyprus,塞浦路斯,賽普勒斯
+46,ez,Czechia,Countries,Europe,europe,czechia,europe\czechia.md,Czechia,捷克,捷克
+47,da,Denmark,Countries,Europe,europe,denmark,europe\denmark.md,Denmark,丹麦,丹麥
+48,dj,Djibouti,Countries,Africa,africa,djibouti,africa\djibouti.md,Djibouti,吉布提,吉布地
+49,do,Dominica,Countries,Central America and Caribbean,central-america-n-caribbean,dominica,central-america-n-caribbean\dominica.md,Dominica,多米尼克,多米尼克
+50,dr,Dominican Republic,Countries,Central America and Caribbean,central-america-n-caribbean,dominican-republic,central-america-n-caribbean\dominican-republic.md,Dominican Republic,多米尼加共和国,多明尼加共和國
+51,ec,Ecuador,Countries,South America,south-america,ecuador,south-america\ecuador.md,Ecuador,厄瓜多尔,厄瓜多
+52,eg,Egypt,Countries,Africa,africa,egypt,africa\egypt.md,Egypt,埃及,埃及
+53,es,El Salvador,Countries,Central America and Caribbean,central-america-n-caribbean,el-salvador,central-america-n-caribbean\el-salvador.md,El Salvador,萨尔瓦多,薩爾瓦多
+54,ek,Equatorial Guinea,Countries,Africa,africa,equatorial-guinea,africa\equatorial-guinea.md,Equatorial Guinea,赤道几内亚,赤道幾內亞
+55,er,Eritrea,Countries,Africa,africa,eritrea,africa\eritrea.md,Eritrea,厄立特里亚,厄利垂亞
+56,en,Estonia,Countries,Europe,europe,estonia,europe\estonia.md,Estonia,爱沙尼亚,愛沙尼亞
+57,et,Ethiopia,Countries,Africa,africa,ethiopia,africa\ethiopia.md,Ethiopia,埃塞俄比亚,衣索比亞
+58,fj,Fiji,Countries,Australia-Oceania,australia-oceania,fiji,australia-oceania\fiji.md,Fiji,斐济,斐濟
+59,fi,Finland,Countries,Europe,europe,finland,europe\finland.md,Finland,芬兰,芬蘭
+60,fr,France,Countries,Europe,europe,france,europe\france.md,France,法国,法國
+61,gb,Gabon,Countries,Africa,africa,gabon,africa\gabon.md,Gabon,加蓬,加彭
+62,ga,"Gambia, The",Countries,Africa,africa,gambia-the,africa\gambia-the.md,Gambia,冈比亚,甘比亞
+63,gg,Georgia,Countries,Middle East,middle-east,georgia,middle-east\georgia.md,Georgia,格鲁吉亚,喬治亞
+64,gm,Germany,Countries,Europe,europe,germany,europe\germany.md,Germany,德国,德國
+65,gh,Ghana,Countries,Africa,africa,ghana,africa\ghana.md,Ghana,加纳,迦納
+66,gr,Greece,Countries,Europe,europe,greece,europe\greece.md,Greece,希腊,希臘
+67,gj,Grenada,Countries,Central America and Caribbean,central-america-n-caribbean,grenada,central-america-n-caribbean\grenada.md,Grenada,格林纳达,格瑞那達
+68,gt,Guatemala,Countries,Central America and Caribbean,central-america-n-caribbean,guatemala,central-america-n-caribbean\guatemala.md,Guatemala,危地马拉,瓜地馬拉
+69,gv,Guinea,Countries,Africa,africa,guinea,africa\guinea.md,Guinea,几内亚,幾內亞
+70,pu,Guinea-Bissau,Countries,Africa,africa,guinea-bissau,africa\guinea-bissau.md,Guinea-Bissau,几内亚比绍,幾內亞比索
+71,gy,Guyana,Countries,South America,south-america,guyana,south-america\guyana.md,Guyana,圭亚那,蓋亞那
+72,ha,Haiti,Countries,Central America and Caribbean,central-america-n-caribbean,haiti,central-america-n-caribbean\haiti.md,Haiti,海地,海地
+73,ho,Honduras,Countries,Central America and Caribbean,central-america-n-caribbean,honduras,central-america-n-caribbean\honduras.md,Honduras,洪都拉斯,宏都拉斯
+74,hu,Hungary,Countries,Europe,europe,hungary,europe\hungary.md,Hungary,匈牙利,匈牙利
+75,ic,Iceland,Countries,Europe,europe,iceland,europe\iceland.md,Iceland,冰岛,冰島
+76,in,India,Countries,South Asia,south-asia,india,south-asia\india.md,India,印度,印度
+77,id,Indonesia,Countries,East & Southeast Asia,east-n-southeast-asia,indonesia,east-n-southeast-asia\indonesia.md,Indonesia,印度尼西亚,印尼
+78,ir,Iran,Countries,Middle East,middle-east,iran,middle-east\iran.md,Iran,伊朗,伊朗
+79,iz,Iraq,Countries,Middle East,middle-east,iraq,middle-east\iraq.md,Iraq,伊拉克,伊拉克
+80,ei,Ireland,Countries,Europe,europe,ireland,europe\ireland.md,Ireland,爱尔兰,愛爾蘭
+81,is,Israel,Countries,Middle East,middle-east,israel,middle-east\israel.md,Israel,以色列,以色列
+82,it,Italy,Countries,Europe,europe,italy,europe\italy.md,Italy,意大利,義大利
+83,jm,Jamaica,Countries,Central America and Caribbean,central-america-n-caribbean,jamaica,central-america-n-caribbean\jamaica.md,Jamaica,牙买加,牙買加
+84,ja,Japan,Countries,East & Southeast Asia,east-n-southeast-asia,japan,east-n-southeast-asia\japan.md,Japan,日本,日本
+85,jo,Jordan,Countries,Middle East,middle-east,jordan,middle-east\jordan.md,Jordan,约旦,約旦
+86,kz,Kazakhstan,Countries,Central Asia,central-asia,kazakhstan,central-asia\kazakhstan.md,Kazakhstan,哈萨克斯坦,哈薩克
+87,ke,Kenya,Countries,Africa,africa,kenya,africa\kenya.md,Kenya,肯尼亚,肯亞
+88,kr,Kiribati,Countries,Australia-Oceania,australia-oceania,kiribati,australia-oceania\kiribati.md,Kiribati,基里巴斯,吉里巴斯
+89,kn,"Korea, North",Countries,East & Southeast Asia,east-n-southeast-asia,korea-north,east-n-southeast-asia\korea-north.md,North Korea,朝鲜,北韓
+90,ks,"Korea, South",Countries,East & Southeast Asia,east-n-southeast-asia,korea-south,east-n-southeast-asia\korea-south.md,South Korea,韩国,南韓
+91,kv,Kosovo,Countries,Europe,europe,kosovo,europe\kosovo.md,Kosovo,科索沃,科索沃
+92,ku,Kuwait,Countries,Middle East,middle-east,kuwait,middle-east\kuwait.md,Kuwait,科威特,科威特
+93,kg,Kyrgyzstan,Countries,Central Asia,central-asia,kyrgyzstan,central-asia\kyrgyzstan.md,Kyrgyzstan,吉尔吉斯斯坦,吉爾吉斯
+94,la,Laos,Countries,East & Southeast Asia,east-n-southeast-asia,laos,east-n-southeast-asia\laos.md,Laos,老挝,寮國
+95,lg,Latvia,Countries,Europe,europe,latvia,europe\latvia.md,Latvia,拉脱维亚,拉脫維亞
+96,le,Lebanon,Countries,Middle East,middle-east,lebanon,middle-east\lebanon.md,Lebanon,黎巴嫩,黎巴嫩
+97,lt,Lesotho,Countries,Africa,africa,lesotho,africa\lesotho.md,Lesotho,莱索托,賴索托
+98,li,Liberia,Countries,Africa,africa,liberia,africa\liberia.md,Liberia,利比里亚,賴比瑞亞
+99,ly,Libya,Countries,Africa,africa,libya,africa\libya.md,Libya,利比亚,利比亞
+100,ls,Liechtenstein,Countries,Europe,europe,liechtenstein,europe\liechtenstein.md,Liechtenstein,列支敦士登,列支敦斯登
+101,lh,Lithuania,Countries,Europe,europe,lithuania,europe\lithuania.md,Lithuania,立陶宛,立陶宛
+102,lu,Luxembourg,Countries,Europe,europe,luxembourg,europe\luxembourg.md,Luxembourg,卢森堡,盧森堡
+103,mk,North Macedonia,Countries,Europe,europe,north-macedonia,europe\north-macedonia.md,North Macedonia,北马其顿,北馬其頓
+104,ma,Madagascar,Countries,Africa,africa,madagascar,africa\madagascar.md,Madagascar,马达加斯加,馬達加斯加
+105,mi,Malawi,Countries,Africa,africa,malawi,africa\malawi.md,Malawi,马拉维,馬拉威
+106,my,Malaysia,Countries,East & Southeast Asia,east-n-southeast-asia,malaysia,east-n-southeast-asia\malaysia.md,Malaysia,马来西亚,馬來西亞
+107,mv,Maldives,Countries,South Asia,south-asia,maldives,south-asia\maldives.md,Maldives,马尔代夫,馬爾地夫
+108,ml,Mali,Countries,Africa,africa,mali,africa\mali.md,Mali,马里,馬利
+109,mt,Malta,Countries,Europe,europe,malta,europe\malta.md,Malta,马耳他,馬爾他
+110,rm,Marshall Islands,Countries,Australia-Oceania,australia-oceania,marshall-islands,australia-oceania\marshall-islands.md,Marshall Islands,马绍尔群岛,馬紹爾群島
+111,mr,Mauritania,Countries,Africa,africa,mauritania,africa\mauritania.md,Mauritania,毛里塔尼亚,茅利塔尼亞
+112,mp,Mauritius,Countries,Africa,africa,mauritius,africa\mauritius.md,Mauritius,毛里求斯,模里西斯
+113,mx,Mexico,Countries,North America,north-america,mexico,north-america\mexico.md,Mexico,墨西哥,墨西哥
+114,fm,"Micronesia, Federated States of",Countries,Australia-Oceania,australia-oceania,micronesia-federated-states-of,australia-oceania\micronesia-federated-states-of.md,Micronesia,密克罗尼西亚,密克羅尼西亞
+115,md,Moldova,Countries,Europe,europe,moldova,europe\moldova.md,Moldova,摩尔多瓦,摩爾多瓦
+116,mn,Monaco,Countries,Europe,europe,monaco,europe\monaco.md,Monaco,摩纳哥,摩納哥
+117,mg,Mongolia,Countries,East & Southeast Asia,east-n-southeast-asia,mongolia,east-n-southeast-asia\mongolia.md,Mongolia,蒙古,蒙古
+118,mj,Montenegro,Countries,Europe,europe,montenegro,europe\montenegro.md,Montenegro,黑山,蒙特內哥羅
+119,mo,Morocco,Countries,Africa,africa,morocco,africa\morocco.md,Morocco,摩洛哥,摩洛哥
+120,mz,Mozambique,Countries,Africa,africa,mozambique,africa\mozambique.md,Mozambique,莫桑比克,莫三比克
+121,wa,Namibia,Countries,Africa,africa,namibia,africa\namibia.md,Namibia,纳米比亚,納米比亞
+122,nr,Nauru,Countries,Australia-Oceania,australia-oceania,nauru,australia-oceania\nauru.md,Nauru,瑙鲁,諾魯
+123,np,Nepal,Countries,South Asia,south-asia,nepal,south-asia\nepal.md,Nepal,尼泊尔,尼泊爾
+124,nl,Netherlands,Countries,Europe,europe,netherlands,europe\netherlands.md,Netherlands,荷兰,荷蘭
+125,nz,New Zealand,Countries,Australia-Oceania,australia-oceania,new-zealand,australia-oceania\new-zealand.md,New Zealand,新西兰,紐西蘭
+126,nu,Nicaragua,Countries,Central America and Caribbean,central-america-n-caribbean,nicaragua,central-america-n-caribbean\nicaragua.md,Nicaragua,尼加拉瓜,尼加拉瓜
+127,ng,Niger,Countries,Africa,africa,niger,africa\niger.md,Niger,尼日尔,尼日
+128,ni,Nigeria,Countries,Africa,africa,nigeria,africa\nigeria.md,Nigeria,尼日利亚,奈及利亞
+129,no,Norway,Countries,Europe,europe,norway,europe\norway.md,Norway,挪威,挪威
+130,mu,Oman,Countries,Middle East,middle-east,oman,middle-east\oman.md,Oman,阿曼,阿曼
+131,pk,Pakistan,Countries,South Asia,south-asia,pakistan,south-asia\pakistan.md,Pakistan,巴基斯坦,巴基斯坦
+132,ps,Palau,Countries,Australia-Oceania,australia-oceania,palau,australia-oceania\palau.md,Palau,帕劳,帛琉
+133,pm,Panama,Countries,Central America and Caribbean,central-america-n-caribbean,panama,central-america-n-caribbean\panama.md,Panama,巴拿马,巴拿馬
+134,pp,Papua New Guinea,Countries,East & Southeast Asia,east-n-southeast-asia,papua-new-guinea,east-n-southeast-asia\papua-new-guinea.md,Papua New Guinea,巴布亚新几内亚,巴布亞紐幾內亞
+135,pa,Paraguay,Countries,South America,south-america,paraguay,south-america\paraguay.md,Paraguay,巴拉圭,巴拉圭
+136,pe,Peru,Countries,South America,south-america,peru,south-america\peru.md,Peru,秘鲁,秘魯
+137,rp,Philippines,Countries,East & Southeast Asia,east-n-southeast-asia,philippines,east-n-southeast-asia\philippines.md,Philippines,菲律宾,菲律賓
+138,pl,Poland,Countries,Europe,europe,poland,europe\poland.md,Poland,波兰,波蘭
+139,po,Portugal,Countries,Europe,europe,portugal,europe\portugal.md,Portugal,葡萄牙,葡萄牙
+140,qa,Qatar,Countries,Middle East,middle-east,qatar,middle-east\qatar.md,Qatar,卡塔尔,卡達
+141,ro,Romania,Countries,Europe,europe,romania,europe\romania.md,Romania,罗马尼亚,羅馬尼亞
+142,rs,Russia,Countries,Central Asia,central-asia,russia,central-asia\russia.md,Russia,俄罗斯,俄羅斯
+143,rw,Rwanda,Countries,Africa,africa,rwanda,africa\rwanda.md,Rwanda,卢旺达,盧安達
+144,sc,Saint Kitts and Nevis,Countries,Central America and Caribbean,central-america-n-caribbean,saint-kitts-and-nevis,central-america-n-caribbean\saint-kitts-and-nevis.md,St. Kitts & Nevis,圣基茨和尼维斯,聖克里斯多福及尼維斯
+145,st,Saint Lucia,Countries,Central America and Caribbean,central-america-n-caribbean,saint-lucia,central-america-n-caribbean\saint-lucia.md,St. Lucia,圣卢西亚,聖露西亞
+146,vc,Saint Vincent and the Grenadines,Countries,Central America and Caribbean,central-america-n-caribbean,saint-vincent-and-the-grenadines,central-america-n-caribbean\saint-vincent-and-the-grenadines.md,St. Vincent & Grenadines,圣文森特和格林纳丁斯,聖文森及格瑞那丁
+147,ws,Samoa,Countries,Australia-Oceania,australia-oceania,samoa,australia-oceania\samoa.md,Samoa,萨摩亚,薩摩亞
+148,sm,San Marino,Countries,Europe,europe,san-marino,europe\san-marino.md,San Marino,圣马力诺,聖馬利諾
+149,tp,Sao Tome and Principe,Countries,Africa,africa,sao-tome-and-principe,africa\sao-tome-and-principe.md,São Tomé & Príncipe,圣多美和普林西比,聖多美普林西比
+150,sa,Saudi Arabia,Countries,Middle East,middle-east,saudi-arabia,middle-east\saudi-arabia.md,Saudi Arabia,沙特阿拉伯,沙烏地阿拉伯
+151,sg,Senegal,Countries,Africa,africa,senegal,africa\senegal.md,Senegal,塞内加尔,塞內加爾
+152,ri,Serbia,Countries,Europe,europe,serbia,europe\serbia.md,Serbia,塞尔维亚,塞爾維亞
+153,se,Seychelles,Countries,Africa,africa,seychelles,africa\seychelles.md,Seychelles,塞舌尔,塞席爾
+154,sl,Sierra Leone,Countries,Africa,africa,sierra-leone,africa\sierra-leone.md,Sierra Leone,塞拉利昂,獅子山
+155,sn,Singapore,Countries,East & Southeast Asia,east-n-southeast-asia,singapore,east-n-southeast-asia\singapore.md,Singapore,新加坡,新加坡
+156,lo,Slovakia,Countries,Europe,europe,slovakia,europe\slovakia.md,Slovakia,斯洛伐克,斯洛伐克
+157,si,Slovenia,Countries,Europe,europe,slovenia,europe\slovenia.md,Slovenia,斯洛文尼亚,斯洛維尼亞
+158,bp,Solomon Islands,Countries,Australia-Oceania,australia-oceania,solomon-islands,australia-oceania\solomon-islands.md,Solomon Islands,所罗门群岛,索羅門群島
+159,so,Somalia,Countries,Africa,africa,somalia,africa\somalia.md,Somalia,索马里,索馬利亞
+160,sf,South Africa,Countries,Africa,africa,south-africa,africa\south-africa.md,South Africa,南非,南非
+161,od,South Sudan,Countries,Africa,africa,south-sudan,africa\south-sudan.md,South Sudan,南苏丹,南蘇丹
+162,sp,Spain,Countries,Europe,europe,spain,europe\spain.md,Spain,西班牙,西班牙
+163,ce,Sri Lanka,Countries,South Asia,south-asia,sri-lanka,south-asia\sri-lanka.md,Sri Lanka,斯里兰卡,斯里蘭卡
+164,su,Sudan,Countries,Africa,africa,sudan,africa\sudan.md,Sudan,苏丹,蘇丹
+165,ns,Suriname,Countries,South America,south-america,suriname,south-america\suriname.md,Suriname,苏里南,蘇利南
+166,wz,Eswatini,Countries,Africa,africa,eswatini,africa\eswatini.md,Eswatini,斯威士兰,史瓦帝尼
+167,sw,Sweden,Countries,Europe,europe,sweden,europe\sweden.md,Sweden,瑞典,瑞典
+168,sz,Switzerland,Countries,Europe,europe,switzerland,europe\switzerland.md,Switzerland,瑞士,瑞士
+169,sy,Syria,Countries,Middle East,middle-east,syria,middle-east\syria.md,Syria,叙利亚,敘利亞
+170,ti,Tajikistan,Countries,Central Asia,central-asia,tajikistan,central-asia\tajikistan.md,Tajikistan,塔吉克斯坦,塔吉克
+171,tz,Tanzania,Countries,Africa,africa,tanzania,africa\tanzania.md,Tanzania,坦桑尼亚,坦尚尼亞
+172,th,Thailand,Countries,East & Southeast Asia,east-n-southeast-asia,thailand,east-n-southeast-asia\thailand.md,Thailand,泰国,泰國
+173,tt,Timor-Leste,Countries,East & Southeast Asia,east-n-southeast-asia,timor-leste,east-n-southeast-asia\timor-leste.md,Timor-Leste,东帝汶,東帝汶
+174,to,Togo,Countries,Africa,africa,togo,africa\togo.md,Togo,多哥,多哥
+175,tn,Tonga,Countries,Australia-Oceania,australia-oceania,tonga,australia-oceania\tonga.md,Tonga,汤加,東加
+176,td,Trinidad and Tobago,Countries,Central America and Caribbean,central-america-n-caribbean,trinidad-and-tobago,central-america-n-caribbean\trinidad-and-tobago.md,Trinidad & Tobago,特立尼达和多巴哥,千里達及托巴哥
+177,ts,Tunisia,Countries,Africa,africa,tunisia,africa\tunisia.md,Tunisia,突尼斯,突尼西亞
+178,tu,Turkey,Countries,Middle East,middle-east,turkey,middle-east\turkey.md,Türkiye,土耳其,土耳其
+179,tx,Turkmenistan,Countries,Central Asia,central-asia,turkmenistan,central-asia\turkmenistan.md,Turkmenistan,土库曼斯坦,土庫曼
+180,tv,Tuvalu,Countries,Australia-Oceania,australia-oceania,tuvalu,australia-oceania\tuvalu.md,Tuvalu,图瓦卢,吐瓦魯
+181,ug,Uganda,Countries,Africa,africa,uganda,africa\uganda.md,Uganda,乌干达,烏干達
+182,up,Ukraine,Countries,Europe,europe,ukraine,europe\ukraine.md,Ukraine,乌克兰,烏克蘭
+183,ae,United Arab Emirates,Countries,Middle East,middle-east,united-arab-emirates,middle-east\united-arab-emirates.md,United Arab Emirates,阿拉伯联合酋长国,阿拉伯聯合大公國
+184,uk,United Kingdom,Countries,Europe,europe,united-kingdom,europe\united-kingdom.md,UK,英国,英國
+185,us,United States,Countries,North America,north-america,united-states,north-america\united-states.md,US,美国,美國
+186,uy,Uruguay,Countries,South America,south-america,uruguay,south-america\uruguay.md,Uruguay,乌拉圭,烏拉圭
+187,uz,Uzbekistan,Countries,Central Asia,central-asia,uzbekistan,central-asia\uzbekistan.md,Uzbekistan,乌兹别克斯坦,烏茲別克
+188,nh,Vanuatu,Countries,Australia-Oceania,australia-oceania,vanuatu,australia-oceania\vanuatu.md,Vanuatu,瓦努阿图,萬那杜
+189,vt,Holy See (Vatican City),Countries,Europe,europe,holy-see-vatican-city,europe\holy-see-vatican-city.md,Vatican City,梵蒂冈,梵蒂岡
+190,ve,Venezuela,Countries,South America,south-america,venezuela,south-america\venezuela.md,Venezuela,委内瑞拉,委內瑞拉
+191,vm,Vietnam,Countries,East & Southeast Asia,east-n-southeast-asia,vietnam,east-n-southeast-asia\vietnam.md,Vietnam,越南,越南
+192,ym,Yemen,Countries,Middle East,middle-east,yemen,middle-east\yemen.md,Yemen,也门,葉門
+193,za,Zambia,Countries,Africa,africa,zambia,africa\zambia.md,Zambia,赞比亚,尚比亞
+194,zi,Zimbabwe,Countries,Africa,africa,zimbabwe,africa\zimbabwe.md,Zimbabwe,津巴布韦,辛巴威
+195,tw,Taiwan,Other,East & Southeast Asia,east-n-southeast-asia,taiwan,east-n-southeast-asia\taiwan.md,Taiwan,台湾,台灣
+196,ee,European Union,Other,Europe,europe,european-union,europe\european-union.md,European Union,欧盟,歐盟
+197,at,Ashmore and Cartier Islands,Dependencies (Australia),Australia-Oceania,australia-oceania,ashmore-and-cartier-islands,australia-oceania\ashmore-and-cartier-islands.md,Ashmore and Cartier Islands,亚什摩及卡地尔群岛,阿什莫爾和卡捷群島
+198,kt,Christmas Island,Dependencies (Australia),Australia-Oceania,australia-oceania,christmas-island,australia-oceania\christmas-island.md,Christmas Island,圣诞岛,聖誕島
+199,ck,Cocos (Keeling) Islands,Dependencies (Australia),Australia-Oceania,australia-oceania,cocos-keeling-islands,australia-oceania\cocos-keeling-islands.md,Cocos (Keeling) Islands,科科斯（基林）群岛,科克斯（基靈）群島
+200,cr,Coral Sea Islands,Dependencies (Australia),Australia-Oceania,australia-oceania,coral-sea-islands,australia-oceania\coral-sea-islands.md,Coral Sea Islands,珊瑚海群岛,珊瑚海群島
+201,hm,Heard Island and McDonald Islands,Dependencies (Australia),Antarctica,antarctica,heard-island-and-mcdonald-islands,antarctica\heard-island-and-mcdonald-islands.md,Heard & McDonald Islands,赫德岛和麦克唐纳群岛,赫德島及麥唐納群島
+202,nf,Norfolk Island,Dependencies (Australia),Australia-Oceania,australia-oceania,norfolk-island,australia-oceania\norfolk-island.md,Norfolk Island,诺福克岛,諾福克島
+203,hk,Hong Kong,Dependencies (China),East & Southeast Asia,east-n-southeast-asia,hong-kong,east-n-southeast-asia\hong-kong.md,Hong Kong,香港,香港
+204,mc,Macau,Dependencies (China),East & Southeast Asia,east-n-southeast-asia,macau,east-n-southeast-asia\macau.md,Macao,澳门,澳門
+205,fo,Faroe Islands,Dependencies (Denmark),Europe,europe,faroe-islands,europe\faroe-islands.md,Faroe Islands,法罗群岛,法羅群島
+206,gl,Greenland,Dependencies (Denmark),North America,north-america,greenland,north-america\greenland.md,Greenland,格陵兰,格陵蘭
+207,ip,Clipperton Island,Dependencies (France),North America,north-america,clipperton-island,north-america\clipperton-island.md,Clipperton Island,克利珀顿岛,克利珀頓島
+208,fp,French Polynesia,Dependencies (France),Australia-Oceania,australia-oceania,french-polynesia,australia-oceania\french-polynesia.md,French Polynesia,法属波利尼西亚,法屬玻里尼西亞
+209,fs,French Southern and Antarctic Lands,Dependencies (France),Antarctica,antarctica,french-southern-and-antarctic-lands,antarctica\french-southern-and-antarctic-lands.md,French Southern Territories,法属南部领地,法屬南部屬地
+210,nc,New Caledonia,Dependencies (France),Australia-Oceania,australia-oceania,new-caledonia,australia-oceania\new-caledonia.md,New Caledonia,新喀里多尼亚,新喀里多尼亞
+211,tb,Saint Barthelemy,Dependencies (France),Central America and Caribbean,central-america-n-caribbean,saint-barthelemy,central-america-n-caribbean\saint-barthelemy.md,St. Barthélemy,圣巴泰勒米,聖巴瑟米
+212,rn,Saint Martin,Dependencies (France),Central America and Caribbean,central-america-n-caribbean,saint-martin,central-america-n-caribbean\saint-martin.md,St. Martin,法属圣马丁,法屬聖馬丁
+213,sb,Saint Pierre and Miquelon,Dependencies (France),North America,north-america,saint-pierre-and-miquelon,north-america\saint-pierre-and-miquelon.md,St. Pierre & Miquelon,圣皮埃尔和密克隆群岛,聖皮埃與密克隆群島
+214,wf,Wallis and Futuna,Dependencies (France),Australia-Oceania,australia-oceania,wallis-and-futuna,australia-oceania\wallis-and-futuna.md,Wallis & Futuna,瓦利斯和富图纳,瓦利斯群島和富圖那群島
+215,aa,Aruba,Dependencies (Netherlands),Central America and Caribbean,central-america-n-caribbean,aruba,central-america-n-caribbean\aruba.md,Aruba,阿鲁巴,荷屬阿魯巴
+216,uc,Curacao,Dependencies (Netherlands),Central America and Caribbean,central-america-n-caribbean,curacao,central-america-n-caribbean\curacao.md,Curaçao,库拉索,庫拉索
+217,nn,Sint Maarten,Dependencies (Netherlands),Central America and Caribbean,central-america-n-caribbean,sint-maarten,central-america-n-caribbean\sint-maarten.md,Sint Maarten,荷属圣马丁,荷屬聖馬丁
+218,cw,Cook Islands,Dependencies (New Zealand),Australia-Oceania,australia-oceania,cook-islands,australia-oceania\cook-islands.md,Cook Islands,库克群岛,庫克群島
+219,ne,Niue,Dependencies (New Zealand),Australia-Oceania,australia-oceania,niue,australia-oceania\niue.md,Niue,纽埃,紐埃島
+220,tl,Tokelau,Dependencies (New Zealand),Australia-Oceania,australia-oceania,tokelau,australia-oceania\tokelau.md,Tokelau,托克劳,托克勞群島
+221,bv,Bouvet Island,Dependencies (Norway),Antarctica,antarctica,bouvet-island,antarctica\bouvet-island.md,Bouvet Island,布韦岛,布威島
+222,jn,Jan Mayen,Dependencies (Norway),Europe,europe,jan-mayen,europe\jan-mayen.md,Jan Mayen,扬马延,揚馬延
+223,sv,Svalbard,Dependencies (Norway),Europe,europe,svalbard,europe\svalbard.md,Svalbard & Jan Mayen,斯瓦尔巴和扬马延,挪威屬斯瓦巴及尖棉
+224,ax,Akrotiri,Dependencies (United Kingdom),Europe,europe,akrotiri,europe\akrotiri.md,Akrotiri,阿克罗蒂里,亞克羅提利
+225,av,Anguilla,Dependencies (United Kingdom),Central America and Caribbean,central-america-n-caribbean,anguilla,central-america-n-caribbean\anguilla.md,Anguilla,安圭拉,安奎拉
+226,bd,Bermuda,Dependencies (United Kingdom),North America,north-america,bermuda,north-america\bermuda.md,Bermuda,百慕大,百慕達
+227,io,British Indian Ocean Territory,Dependencies (United Kingdom),South Asia,south-asia,british-indian-ocean-territory,south-asia\british-indian-ocean-territory.md,British Indian Ocean Territory,英属印度洋领地,英屬印度洋領地
+228,vi,British Virgin Islands,Dependencies (United Kingdom),Central America and Caribbean,central-america-n-caribbean,british-virgin-islands,central-america-n-caribbean\british-virgin-islands.md,British Virgin Islands,英属维尔京群岛,英屬維京群島
+229,cj,Cayman Islands,Dependencies (United Kingdom),Central America and Caribbean,central-america-n-caribbean,cayman-islands,central-america-n-caribbean\cayman-islands.md,Cayman Islands,开曼群岛,開曼群島
+230,dx,Dhekelia,Dependencies (United Kingdom),Europe,europe,dhekelia,europe\dhekelia.md,Dhekelia,泽凯利亚,德凱利亞
+231,fk,Falkland Islands (Islas Malvinas),Dependencies (United Kingdom),South America,south-america,falkland-islands-islas-malvinas,south-america\falkland-islands-islas-malvinas.md,Falkland Islands,福克兰群岛,福克蘭群島
+232,gi,Gibraltar,Dependencies (United Kingdom),Europe,europe,gibraltar,europe\gibraltar.md,Gibraltar,直布罗陀,直布羅陀
+233,gk,Guernsey,Dependencies (United Kingdom),Europe,europe,guernsey,europe\guernsey.md,Guernsey,根西岛,根息
+234,je,Jersey,Dependencies (United Kingdom),Europe,europe,jersey,europe\jersey.md,Jersey,泽西岛,澤西島
+235,im,Isle of Man,Dependencies (United Kingdom),Europe,europe,isle-of-man,europe\isle-of-man.md,Isle of Man,马恩岛,曼島
+236,mh,Montserrat,Dependencies (United Kingdom),Central America and Caribbean,central-america-n-caribbean,montserrat,central-america-n-caribbean\montserrat.md,Montserrat,蒙特塞拉特,蒙哲臘
+237,pc,Pitcairn Islands,Dependencies (United Kingdom),Australia-Oceania,australia-oceania,pitcairn-islands,australia-oceania\pitcairn-islands.md,Pitcairn Islands,皮特凯恩群岛,皮特肯群島
+238,sh,"Saint Helena, Ascension, and Tristan da Cunha",Dependencies (United Kingdom),Africa,africa,saint-helena-ascension-and-tristan-da-cunha,africa\saint-helena-ascension-and-tristan-da-cunha.md,St. Helena,圣赫勒拿,聖赫勒拿島
+239,sx,South Georgia and South Sandwich Islands,Dependencies (United Kingdom),South America,south-america,south-georgia-and-south-sandwich-islands,south-america\south-georgia-and-south-sandwich-islands.md,South Georgia and South Sandwich Islands,南乔治亚，南三明治群岛,南喬治亞，南桑威奇群島
+240,tk,Turks and Caicos Islands,Dependencies (United Kingdom),Central America and Caribbean,central-america-n-caribbean,turks-and-caicos-islands,central-america-n-caribbean\turks-and-caicos-islands.md,Turks & Caicos Islands,特克斯和凯科斯群岛,土克斯及開科斯群島
+241,aq,American Samoa,Dependencies (United States),Australia-Oceania,australia-oceania,american-samoa,australia-oceania\american-samoa.md,American Samoa,美属萨摩亚,美屬薩摩亞
+242,gq,Guam,Dependencies (United States),Australia-Oceania,australia-oceania,guam,australia-oceania\guam.md,Guam,关岛,關島
+243,bq,Navassa Island,Dependencies (United States),Central America and Caribbean,central-america-n-caribbean,navassa-island,central-america-n-caribbean\navassa-island.md,Navassa Island,纳瓦萨岛,納弗沙島
+244,cq,Northern Mariana Islands,Dependencies (United States),Australia-Oceania,australia-oceania,northern-mariana-islands,australia-oceania\northern-mariana-islands.md,Northern Mariana Islands,北马里亚纳群岛,北馬利安納群島
+245,rq,Puerto Rico,Dependencies (United States),Central America and Caribbean,central-america-n-caribbean,puerto-rico,central-america-n-caribbean\puerto-rico.md,Puerto Rico,波多黎各,波多黎各
+246,vq,Virgin Islands,Dependencies (United States),Central America and Caribbean,central-america-n-caribbean,virgin-islands,central-america-n-caribbean\virgin-islands.md,U.S. Virgin Islands,美属维尔京群岛,美屬維京群島
+247,wq,Wake Island,Dependencies (United States),Australia-Oceania,australia-oceania,wake-island,australia-oceania\wake-island.md,Wake Island,威克岛,威克島
+248,um,United States Pacific Island Wildlife Refuges,Dependencies (United States),Australia-Oceania,australia-oceania,united-states-pacific-island-wildlife-refuges,australia-oceania\united-states-pacific-island-wildlife-refuges.md,United States Pacific Island Wildlife Refuges,美国太平洋岛屿野生动物保护区,美國太平洋島嶼野生動物保護區
+249,ay,Antarctica,Miscellaneous,Antarctica,antarctica,antarctica,antarctica\antarctica.md,Antarctica,南极洲,南極洲
+250,gz,Gaza Strip,Miscellaneous,Middle East,middle-east,gaza-strip,middle-east\gaza-strip.md,Palestine,巴勒斯坦,巴勒斯坦
+251,pf,Paracel Islands,Miscellaneous,East & Southeast Asia,east-n-southeast-asia,paracel-islands,east-n-southeast-asia\paracel-islands.md,Paracel Islands,西沙群岛,西沙群島
+252,pg,Spratly Islands,Miscellaneous,East & Southeast Asia,east-n-southeast-asia,spratly-islands,east-n-southeast-asia\spratly-islands.md,Spratly Islands,南沙群岛,南沙群島
+253,we,West Bank,Miscellaneous,Middle East,middle-east,west-bank,middle-east\west-bank.md,Palestine,巴勒斯坦,巴勒斯坦
+254,xq,Arctic Ocean,Oceans,Oceans,oceans,arctic-ocean,oceans\arctic-ocean.md,Arctic Ocean,北冰洋,北冰洋
+255,zh,Atlantic Ocean,Oceans,Oceans,oceans,atlantic-ocean,oceans\atlantic-ocean.md,Atlantic Ocean,大西洋,大西洋
+256,xo,Indian Ocean,Oceans,Oceans,oceans,indian-ocean,oceans\indian-ocean.md,Indian Ocean,印度洋,印度洋
+257,zn,Pacific Ocean,Oceans,Oceans,oceans,pacific-ocean,oceans\pacific-ocean.md,Pacific Ocean,太平洋,太平洋
+258,oo,Southern Ocean,Oceans,Oceans,oceans,southern-ocean,oceans\southern-ocean.md,Southern Ocean,南大洋,南部海洋
+259,xx,World,World,World,world,world,world\world.md,World,世界,世界
