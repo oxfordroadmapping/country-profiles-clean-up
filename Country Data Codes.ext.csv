@@ -1,6 +1,6 @@
-,Name,GENC,alpha_2,alpha_3,numeric,name_iso_official,name_iso,name_CLDR_en,name_CLDR_zh-Hans,name_CLDR_zh-Hant,ISO 3166,Stanag,Internet,Comment
+﻿Column1,Name,GENC,alpha_2,alpha_3,numeric,name_iso_official,name_iso,name_CLDR_en,name_CLDR_zh-Hans,name_CLDR_zh-Hant,ISO 3166,Stanag,Internet,Comment
 0,Afghanistan,AFG,AF,AFG,004,Islamic Republic of Afghanistan,Islamic Republic of Afghanistan,Afghanistan,阿富汗,阿富汗,AF|AFG|004,AFG,.af,
-1,Akrotiri,XQZ,,,,,,,,,-,-,-,
+1,Akrotiri,XQZ,,,,,,Akrotiri,阿克罗蒂里,亞克羅提利,-,-,-,
 2,Albania,ALB,AL,ALB,008,Republic of Albania,Republic of Albania,Albania,阿尔巴尼亚,阿爾巴尼亞,AL|ALB|008,ALB,.al,
 3,Algeria,DZA,DZ,DZA,012,People's Democratic Republic of Algeria,People's Democratic Republic of Algeria,Algeria,阿尔及利亚,阿爾及利亞,DZ|DZA|012,DZA,.dz,
 4,American Samoa,ASM,AS,ASM,016,,,American Samoa,美属萨摩亚,美屬薩摩亞,AS|ASM|016,ASM,.as,
@@ -12,16 +12,16 @@
 10,Argentina,ARG,AR,ARG,032,Argentine Republic,Argentine Republic,Argentina,阿根廷,阿根廷,AR|ARG|032,ARG,.ar,
 11,Armenia,ARM,AM,ARM,051,Republic of Armenia,Republic of Armenia,Armenia,亚美尼亚,亞美尼亞,AM|ARM|051,ARM,.am,
 12,Aruba,ABW,AW,ABW,533,,,Aruba,阿鲁巴,荷屬阿魯巴,AW|ABW|533,ABW,.aw,
-13,Ashmore and Cartier Islands,XAC,,,,,,,,,-,AUS,-,ISO includes with Australia
+13,Ashmore and Cartier Islands,XAC,,,,,,Ashmore and Cartier Islands,亚什摩及卡地尔群岛,阿什莫爾和卡捷群島,-,AUS,-,ISO includes with Australia
 14,Australia,AUS,AU,AUS,036,,,Australia,澳大利亚,澳洲,AU|AUS|036,AUS,.au,"ISO includes Ashmore and Cartier Islands, Coral Sea Islands"
 15,Austria,AUT,AT,AUT,040,Republic of Austria,Republic of Austria,Austria,奥地利,奧地利,AT|AUT|040,AUT,.at,
 16,Azerbaijan,AZE,AZ,AZE,031,Republic of Azerbaijan,Republic of Azerbaijan,Azerbaijan,阿塞拜疆,亞塞拜然,AZ|AZE|031,AZE,.az,
 17,"Bahamas, The",BHS,BS,BHS,044,Commonwealth of the Bahamas,Commonwealth of the Bahamas,Bahamas,巴哈马,巴哈馬,BS|BHS|044,BHS,.bs,
 18,Bahrain,BHR,BH,BHR,048,Kingdom of Bahrain,Kingdom of Bahrain,Bahrain,巴林,巴林,BH|BHR|048,BHR,.bh,
-19,Baker Island,XBK,,,,,,,,,-,UMI,-,ISO includes with the US Minor Outlying Islands
+19,Baker Island,XBK,,,,,,Baker Island,贝克岛,貝克島,-,UMI,-,ISO includes with the US Minor Outlying Islands
 20,Bangladesh,BGD,BD,BGD,050,People's Republic of Bangladesh,People's Republic of Bangladesh,Bangladesh,孟加拉国,孟加拉,BD|BGD|050,BGD,.bd,
 21,Barbados,BRB,BB,BRB,052,,,Barbados,巴巴多斯,巴貝多,BB|BRB|052,BRB,.bb,
-22,Bassas da India,XBI,,,,,,,,,-,-,-,administered as part of French Southern and Antarctic Lands; no ISO codes assigned
+22,Bassas da India,XBI,,,,,,Bassas da India,印度礁,印度礁,-,-,-,administered as part of French Southern and Antarctic Lands; no ISO codes assigned
 23,Belarus,BLR,BY,BLR,112,Republic of Belarus,Republic of Belarus,Belarus,白俄罗斯,白俄羅斯,BY|BLR|112,BLR,.by,
 24,Belgium,BEL,BE,BEL,056,Kingdom of Belgium,Kingdom of Belgium,Belgium,比利时,比利時,BE|BEL|056,BEL,.be,
 25,Belize,BLZ,BZ,BLZ,084,,,Belize,伯利兹,貝里斯,BZ|BLZ|084,BLZ,.bz,
@@ -50,14 +50,14 @@
 48,Chile,CHL,CL,CHL,152,Republic of Chile,Republic of Chile,Chile,智利,智利,CL|CHL|152,CHL,.cl,
 49,China,CHN,CN,CHN,156,People's Republic of China,People's Republic of China,China,中国,中國,CN|CHN|156,CHN,.cn,see also Taiwan
 50,Christmas Island,CXR,CX,CXR,162,,,Christmas Island,圣诞岛,聖誕島,CX|CXR|162,CXR,.cx,
-51,Clipperton Island,CPT,,,,,,,,,-,FYP,-,ISO includes with France
+51,Clipperton Island,CPT,,,,,,Clipperton Island,克利珀顿岛,克利珀頓島,-,FYP,-,ISO includes with France
 52,Cocos (Keeling) Islands,CCK,CC,CCK,166,,,Cocos (Keeling) Islands,科科斯（基林）群岛,科克斯（基靈）群島,CC|CCK|166,AUS,.cc,
 53,Colombia,COL,CO,COL,170,Republic of Colombia,Republic of Colombia,Colombia,哥伦比亚,哥倫比亞,CO|COL|170,COL,.co,
 54,Comoros,COM,KM,COM,174,Union of the Comoros,Union of the Comoros,Comoros,科摩罗,葛摩,KM|COM|174,COM,.km,
 55,"Congo, Democratic Republic of the",COD,CD,COD,180,,,Congo - Kinshasa,刚果（金）,剛果（金夏沙）,CD|COD|180,COD,.cd,formerly Zaire
 56,"Congo, Republic of the",COG,CG,COG,178,Republic of the Congo,Republic of the Congo,Congo - Brazzaville,刚果（布）,剛果（布拉薩）,CG|COG|178,COG,.cg,
 57,Cook Islands,COK,CK,COK,184,,,Cook Islands,库克群岛,庫克群島,CK|COK|184,COK,.ck,
-58,Coral Sea Islands,XCS,,,,,,,,,-,AUS,-,ISO includes with Australia
+58,Coral Sea Islands,XCS,,,,,,Coral Sea Islands,珊瑚海群岛,珊瑚海群島,-,AUS,-,ISO includes with Australia
 59,Costa Rica,CRI,CR,CRI,188,Republic of Costa Rica,Republic of Costa Rica,Costa Rica,哥斯达黎加,哥斯大黎加,CR|CRI|188,CRI,.cr,
 60,Cote d'Ivoire,CIV,CI,CIV,384,Republic of Côte d'Ivoire,Republic of Côte d'Ivoire,Côte d’Ivoire,科特迪瓦,象牙海岸,CI|CIV|384,CIV,.ci,
 61,Croatia,HRV,HR,HRV,191,Republic of Croatia,Republic of Croatia,Croatia,克罗地亚,克羅埃西亞,HR|HRV|191,HRV,.hr,
@@ -66,7 +66,7 @@
 64,Cyprus,CYP,CY,CYP,196,Republic of Cyprus,Republic of Cyprus,Cyprus,塞浦路斯,賽普勒斯,CY|CYP|196,CYP,.cy,
 65,Czechia,CZE,CZ,CZE,203,Czech Republic,Czech Republic,Czechia,捷克,捷克,CZ|CZE|203,CZE,.cz,
 66,Denmark,DNK,DK,DNK,208,Kingdom of Denmark,Kingdom of Denmark,Denmark,丹麦,丹麥,DK|DNK|208,DNK,.dk,
-67,Dhekelia,XXD,,,,,,,,,-,-,-,
+67,Dhekelia,XXD,,,,,,Dhekelia,泽凯利亚,德凱利亞,-,-,-,
 68,Djibouti,DJI,DJ,DJI,262,Republic of Djibouti,Republic of Djibouti,Djibouti,吉布提,吉布地,DJ|DJI|262,DJI,.dj,
 69,Dominica,DMA,DM,DMA,212,Commonwealth of Dominica,Commonwealth of Dominica,Dominica,多米尼克,多米尼克,DM|DMA|212,DMA,.dm,
 70,Dominican Republic,DOM,DO,DOM,214,,,Dominican Republic,多米尼加共和国,多明尼加共和國,DO|DOM|214,DOM,.do,
@@ -78,13 +78,13 @@
 76,Estonia,EST,EE,EST,233,Republic of Estonia,Republic of Estonia,Estonia,爱沙尼亚,愛沙尼亞,EE|EST|233,EST,.ee,
 77,Eswatini,SWZ,SZ,SWZ,748,Kingdom of Eswatini,Kingdom of Eswatini,Eswatini,斯威士兰,史瓦帝尼,SZ|SWZ|748,SWZ,.sz,
 78,Ethiopia,ETH,ET,ETH,231,Federal Democratic Republic of Ethiopia,Federal Democratic Republic of Ethiopia,Ethiopia,埃塞俄比亚,衣索比亞,ET|ETH|231,ETH,.et,
-79,Europa Island,XEU,,,,,,,,,-,-,-,administered as part of French Southern and Antarctic Lands; no ISO codes assigned
+79,Europa Island,XEU,,,,,,Europa Island,欧罗巴岛,歐羅巴島,-,-,-,administered as part of French Southern and Antarctic Lands; no ISO codes assigned
 80,Falkland Islands (Islas Malvinas),FLK,FK,FLK,238,,,Falkland Islands,福克兰群岛,福克蘭群島,FK|FLK|238,FLK,.fk,
 81,Faroe Islands,FRO,FO,FRO,234,,,Faroe Islands,法罗群岛,法羅群島,FO|FRO|234,FRO,.fo,
 82,Fiji,FJI,FJ,FJI,242,Republic of Fiji,Republic of Fiji,Fiji,斐济,斐濟,FJ|FJI|242,FJI,.fj,
 83,Finland,FIN,FI,FIN,246,Republic of Finland,Republic of Finland,Finland,芬兰,芬蘭,FI|FIN|246,FIN,.fi,
 84,France,FRA,FR,FRA,250,French Republic,French Republic,France,法国,法國,FR|FRA|250,FRA,.fr,"ISO includes metropolitan France along with the dependencies of Clipperton Island, French Guiana, French Polynesia, French Southern and Antarctic Lands, Guadeloupe, Martinique, Mayotte, New Caledonia, Reunion, Saint Pierre and Miquelon, Wallis and Futuna"
-85,"France, Metropolitan",-,FX,FXX,249,,,,,,FX|FXX|249,-,.fx,ISO limits to the European part of France
+85,"France, Metropolitan",-,FX,FXX,249,,,European France,法国本土,法國本土,FX|FXX|249,-,.fx,ISO limits to the European part of France
 86,French Guiana,GUF,GF,GUF,254,,,French Guiana,法属圭亚那,法屬圭亞那,GF|GUF|254,GUF,.gf,
 87,French Polynesia,PYF,PF,PYF,258,,,French Polynesia,法属波利尼西亚,法屬玻里尼西亞,PF|PYF|258,PYF,.pf,
 88,French Southern and Antarctic Lands,ATF,TF,ATF,260,,,French Southern Territories,法属南部领地,法屬南部屬地,TF|ATF|260,ATF,.tf,GENC does not include the French-claimed portion of Antarctica (Terre Adelie)
@@ -95,7 +95,7 @@
 93,Germany,DEU,DE,DEU,276,Federal Republic of Germany,Federal Republic of Germany,Germany,德国,德國,DE|DEU|276,DEU,.de,
 94,Ghana,GHA,GH,GHA,288,Republic of Ghana,Republic of Ghana,Ghana,加纳,迦納,GH|GHA|288,GHA,.gh,
 95,Gibraltar,GIB,GI,GIB,292,,,Gibraltar,直布罗陀,直布羅陀,GI|GIB|292,GIB,.gi,
-96,Glorioso Islands,XGL,,,,,,,,,-,-,-,administered as part of French Southern and Antarctic Lands; no ISO codes assigned
+96,Glorioso Islands,XGL,,,,,,Glorioso Islands,格洛里厄斯群岛,格洛里厄斯群島,-,-,-,administered as part of French Southern and Antarctic Lands; no ISO codes assigned
 97,Greece,GRC,GR,GRC,300,Hellenic Republic,Hellenic Republic,Greece,希腊,希臘,GR|GRC|300,GRC,.gr,"For its internal communications, the  European Union recommends the use of the code EL in lieu of the ISO 3166-2 code of GR"
 98,Greenland,GRL,GL,GRL,304,,,Greenland,格陵兰,格陵蘭,GL|GRL|304,GRL,.gl,
 99,Grenada,GRD,GD,GRD,308,,,Grenada,格林纳达,格瑞那達,GD|GRD|308,GRD,.gd,
@@ -111,7 +111,7 @@
 109,Holy See (Vatican City),VAT,VA,VAT,336,,,Vatican City,梵蒂冈,梵蒂岡,VA|VAT|336,VAT,.va,
 110,Honduras,HND,HN,HND,340,Republic of Honduras,Republic of Honduras,Honduras,洪都拉斯,宏都拉斯,HN|HND|340,HND,.hn,
 111,Hong Kong,HKG,HK,HKG,344,Hong Kong Special Administrative Region of China,Hong Kong Special Administrative Region of China,Hong Kong,香港,香港,HK|HKG|344,HKG,.hk,
-112,Howland Island,XHO,,,,,,,,,-,UMI,-,ISO includes with the US Minor Outlying Islands
+112,Howland Island,XHO,,,,,,Howland Island,豪兰岛,豪蘭島,-,UMI,-,ISO includes with the US Minor Outlying Islands
 113,Hungary,HUN,HU,HUN,348,Hungary,Hungary,Hungary,匈牙利,匈牙利,HU|HUN|348,HUN,.hu,
 114,Iceland,ISL,IS,ISL,352,Republic of Iceland,Republic of Iceland,Iceland,冰岛,冰島,IS|ISL|352,ISL,.is,
 115,India,IND,IN,IND,356,Republic of India,Republic of India,India,印度,印度,IN|IND|356,IND,.in,
@@ -123,16 +123,16 @@
 121,Israel,ISR,IL,ISR,376,State of Israel,State of Israel,Israel,以色列,以色列,IL|ISR|376,ISR,.il,
 122,Italy,ITA,IT,ITA,380,Italian Republic,Italian Republic,Italy,意大利,義大利,IT|ITA|380,ITA,.it,
 123,Jamaica,JAM,JM,JAM,388,,,Jamaica,牙买加,牙買加,JM|JAM|388,JAM,.jm,
-124,Jan Mayen,XJM,,,,,,,,,-,SJM,-,ISO includes with Svalbard
+124,Jan Mayen,XJM,,,,,,Jan Mayen,扬马延,揚馬延,-,SJM,-,ISO includes with Svalbard
 125,Japan,JPN,JP,JPN,392,,,Japan,日本,日本,JP|JPN|392,JPN,.jp,
-126,Jarvis Island,XJV,,,,,,,,,-,UMI,-,ISO includes with the US Minor Outlying Islands
+126,Jarvis Island,XJV,,,,,,Jarvis Island,贾维斯岛,賈維斯島,-,UMI,-,ISO includes with the US Minor Outlying Islands
 127,Jersey,JEY,JE,JEY,832,,,Jersey,泽西岛,澤西島,JE|JEY|832,UK,.je,
-128,Johnston Atoll,XJA,,,,,,,,,-,UMI,-,ISO includes with the US Minor Outlying Islands
+128,Johnston Atoll,XJA,,,,,,Johnston Atoll,约翰斯顿环礁,強斯頓環礁,-,UMI,-,ISO includes with the US Minor Outlying Islands
 129,Jordan,JOR,JO,JOR,400,Hashemite Kingdom of Jordan,Hashemite Kingdom of Jordan,Jordan,约旦,約旦,JO|JOR|400,JOR,.jo,
-130,Juan de Nova Island,XJN,,,,,,,,,-,-,-,administered as part of French Southern and Antarctic Lands; no ISO codes assigned
+130,Juan de Nova Island,XJN,,,,,,Juan de Nova Island,新胡安岛,新胡安島,-,-,-,administered as part of French Southern and Antarctic Lands; no ISO codes assigned
 131,Kazakhstan,KAZ,KZ,KAZ,398,Republic of Kazakhstan,Republic of Kazakhstan,Kazakhstan,哈萨克斯坦,哈薩克,KZ|KAZ|398,KAZ,.kz,
 132,Kenya,KEN,KE,KEN,404,Republic of Kenya,Republic of Kenya,Kenya,肯尼亚,肯亞,KE|KEN|404,KEN,.ke,
-133,Kingman Reef,XKR,,,,,,,,,-,UMI,-,ISO includes with the US Minor Outlying Islands
+133,Kingman Reef,XKR,,,,,,Kingman Reef,金曼礁,金曼礁,-,UMI,-,ISO includes with the US Minor Outlying Islands
 134,Kiribati,KIR,KI,KIR,296,Republic of Kiribati,Republic of Kiribati,Kiribati,基里巴斯,吉里巴斯,KI|KIR|296,KIR,.ki,
 135,"Korea, North",PRK,KP,PRK,408,Democratic People's Republic of Korea,Democratic People's Republic of Korea,North Korea,朝鲜,北韓,KP|PRK|408,PRK,.kp,
 136,"Korea, South",KOR,KR,KOR,410,,,South Korea,韩国,南韓,KR|KOR|410,KOR,.kr,
@@ -162,7 +162,7 @@
 160,Mayotte,MYT,YT,MYT,175,,,Mayotte,马约特,馬約特島,YT|MYT|175,FRA,.yt,
 161,Mexico,MEX,MX,MEX,484,United Mexican States,United Mexican States,Mexico,墨西哥,墨西哥,MX|MEX|484,MEX,.mx,
 162,"Micronesia, Federated States of",FSM,FM,FSM,583,Federated States of Micronesia,Federated States of Micronesia,Micronesia,密克罗尼西亚,密克羅尼西亞,FM|FSM|583,FSM,.fm,
-163,Midway Islands,XMW,,,,,,,,,-,UMI,-,ISO includes with the US Minor Outlying Islands
+163,Midway Islands,XMW,,,,,,Midway Islands,中途岛,中途島,-,UMI,-,ISO includes with the US Minor Outlying Islands
 164,Moldova,MDA,MD,MDA,498,Republic of Moldova,Republic of Moldova,Moldova,摩尔多瓦,摩爾多瓦,MD|MDA|498,MDA,.md,
 165,Monaco,MCO,MC,MCO,492,Principality of Monaco,Principality of Monaco,Monaco,摩纳哥,摩納哥,MC|MCO|492,MCO,.mc,
 166,Mongolia,MNG,MN,MNG,496,,,Mongolia,蒙古,蒙古,MN|MNG|496,MNG,.mn,
@@ -170,10 +170,10 @@
 168,Montserrat,MSR,MS,MSR,500,,,Montserrat,蒙特塞拉特,蒙哲臘,MS|MSR|500,MSR,.ms,
 169,Morocco,MAR,MA,MAR,504,Kingdom of Morocco,Kingdom of Morocco,Morocco,摩洛哥,摩洛哥,MA|MAR|504,MAR,.ma,
 170,Mozambique,MOZ,MZ,MOZ,508,Republic of Mozambique,Republic of Mozambique,Mozambique,莫桑比克,莫三比克,MZ|MOZ|508,MOZ,.mz,
-171,Myanmar,-,,,,,,,,,-,-,-,see Burma
+171,Myanmar,-,MM,MMR,104,,,Myanmar,缅甸,緬甸,-,-,-,see Burma
 172,Namibia,NAM,NA,NAM,516,Republic of Namibia,Republic of Namibia,Namibia,纳米比亚,納米比亞,NA|NAM|516,NAM,.na,
 173,Nauru,NRU,NR,NRU,520,Republic of Nauru,Republic of Nauru,Nauru,瑙鲁,諾魯,NR|NRU|520,NRU,.nr,
-174,Navassa Island,XNV,,,,,,,,,-,UMI,-,ISO includes with the US Minor Outlying Islands
+174,Navassa Island,XNV,,,,,,Navassa Island,纳瓦萨岛,納弗沙島,-,UMI,-,ISO includes with the US Minor Outlying Islands
 175,Nepal,NPL,NP,NPL,524,Federal Democratic Republic of Nepal,Federal Democratic Republic of Nepal,Nepal,尼泊尔,尼泊爾,NP|NPL|524,NPL,.np,
 176,Netherlands,NLD,NL,NLD,528,Kingdom of the Netherlands,Kingdom of the Netherlands,Netherlands,荷兰,荷蘭,NL|NLD|528,NLD,.nl,
 177,New Caledonia,NCL,NC,NCL,540,,,New Caledonia,新喀里多尼亚,新喀里多尼亞,NC|NCL|540,NCL,.nc,
@@ -189,10 +189,10 @@
 187,Oman,OMN,OM,OMN,512,Sultanate of Oman,Sultanate of Oman,Oman,阿曼,阿曼,OM|OMN|512,OMN,.om,
 188,Pakistan,PAK,PK,PAK,586,Islamic Republic of Pakistan,Islamic Republic of Pakistan,Pakistan,巴基斯坦,巴基斯坦,PK|PAK|586,PAK,.pk,
 189,Palau,PLW,PW,PLW,585,Republic of Palau,Republic of Palau,Palau,帕劳,帛琉,PW|PLW|585,PLW,.pw,
-190,Palmyra Atoll,XPL,,,,,,,,,-,UMI,-,ISO includes with the US Minor Outlying Islands
+190,Palmyra Atoll,XPL,,,,,,Palmyra Atoll,巴尔米拉环礁,巴美拉環礁,-,UMI,-,ISO includes with the US Minor Outlying Islands
 191,Panama,PAN,PA,PAN,591,Republic of Panama,Republic of Panama,Panama,巴拿马,巴拿馬,PA|PAN|591,PAN,.pa,
 192,Papua New Guinea,PNG,PG,PNG,598,Independent State of Papua New Guinea,Independent State of Papua New Guinea,Papua New Guinea,巴布亚新几内亚,巴布亞紐幾內亞,PG|PNG|598,PNG,.pg,
-193,Paracel Islands,XPR,,,,,,,,,-,-,-,
+193,Paracel Islands,XPR,,,,,,Paracel Islands,西沙群岛,西沙群島,-,-,-,
 194,Paraguay,PRY,PY,PRY,600,Republic of Paraguay,Republic of Paraguay,Paraguay,巴拉圭,巴拉圭,PY|PRY|600,PRY,.py,
 195,Peru,PER,PE,PER,604,Republic of Peru,Republic of Peru,Peru,秘鲁,秘魯,PE|PER|604,PER,.pe,
 196,Philippines,PHL,PH,PHL,608,Republic of the Philippines,Republic of the Philippines,Philippines,菲律宾,菲律賓,PH|PHL|608,PHL,.ph,
@@ -230,7 +230,7 @@
 228,South Georgia and the Islands,SGS,GS,SGS,239,,,South Georgia & South Sandwich Islands,南乔治亚和南桑威奇群岛,南喬治亞與南三明治群島,GS|SGS|239,SGS,.gs,
 229,South Sudan,SSD,SS,SSD,728,Republic of South Sudan,Republic of South Sudan,South Sudan,南苏丹,南蘇丹,SS|SSD|728,-,-,"IANA has designated .ss as the ccTLD for South Sudan, however it has not been activated in DNS root zone"
 230,Spain,ESP,ES,ESP,724,Kingdom of Spain,Kingdom of Spain,Spain,西班牙,西班牙,ES|ESP|724,ESP,.es,
-231,Spratly Islands,XSP,,,,,,,,,-,-,-,
+231,Spratly Islands,XSP,,,,,,Spratly Islands,南沙群岛,南沙群島,-,-,-,
 232,Sri Lanka,LKA,LK,LKA,144,Democratic Socialist Republic of Sri Lanka,Democratic Socialist Republic of Sri Lanka,Sri Lanka,斯里兰卡,斯里蘭卡,LK|LKA|144,LKA,.lk,
 233,Sudan,SDN,SD,SDN,729,Republic of the Sudan,Republic of the Sudan,Sudan,苏丹,蘇丹,SD|SDN|729,SDN,.sd,
 234,Suriname,SUR,SR,SUR,740,Republic of Suriname,Republic of Suriname,Suriname,苏里南,蘇利南,SR|SUR|740,SUR,.sr,
@@ -247,7 +247,7 @@
 245,Tokelau,TKL,TK,TKL,772,,,Tokelau,托克劳,托克勞群島,TK|TKL|772,TKL,.tk,
 246,Tonga,TON,TO,TON,776,Kingdom of Tonga,Kingdom of Tonga,Tonga,汤加,東加,TO|TON|776,TON,.to,
 247,Trinidad and Tobago,TTO,TT,TTO,780,Republic of Trinidad and Tobago,Republic of Trinidad and Tobago,Trinidad & Tobago,特立尼达和多巴哥,千里達及托巴哥,TT|TTO|780,TTO,.tt,
-248,Tromelin Island,XTR,,,,,,,,,-,-,-,administered as part of French Southern and Antarctic Lands; no ISO codes assigned
+248,Tromelin Island,XTR,,,,,,Tromelin Island,特罗姆兰岛,特羅姆蘭島,-,-,-,administered as part of French Southern and Antarctic Lands; no ISO codes assigned
 249,Tunisia,TUN,TN,TUN,788,Republic of Tunisia,Republic of Tunisia,Tunisia,突尼斯,突尼西亞,TN|TUN|788,TUN,.tn,
 250,Turkey (Turkiye),TUR,TR,TUR,792,Republic of Türkiye,Republic of Türkiye,Türkiye,土耳其,土耳其,TR|TUR|792,TUR,.tr,
 251,Turkmenistan,TKM,TM,TKM,795,,,Turkmenistan,土库曼斯坦,土庫曼,TM|TKM|795,TKM,.tm,
@@ -265,15 +265,15 @@
 263,Venezuela,VEN,VE,VEN,862,Bolivarian Republic of Venezuela,Bolivarian Republic of Venezuela,Venezuela,委内瑞拉,委內瑞拉,VE|VEN|862,VEN,.ve,
 264,Vietnam,VNM,VN,VNM,704,Socialist Republic of Viet Nam,Socialist Republic of Viet Nam,Vietnam,越南,越南,VN|VNM|704,VNM,.vn,
 265,Virgin Islands,VIR,VI,VIR,850,Virgin Islands of the United States,Virgin Islands of the United States,U.S. Virgin Islands,美属维尔京群岛,美屬維京群島,VI|VIR|850,VIR,.vi,
-266,Virgin Islands (UK),-,,,,,,,,,-,-,.vg,see British Virgin Islands
-267,Virgin Islands (US),-,,,,,,,,,-,-,.vi,see Virgin Islands
-268,Wake Island,XWK,,,,,,,,,-,UMI,-,ISO includes with the US Minor Outlying Islands
+266,Virgin Islands (UK),-,VG,VGB,092,,,British Virgin Islands,英属维尔京群岛,英屬維京群島,-,-,.vg,see British Virgin Islands
+267,Virgin Islands (US),-,VI,VIR,850,,,U.S. Virgin Islands,美属维尔京群岛,美屬維京群島,-,-,.vi,see Virgin Islands
+268,Wake Island,XWK,,,,,,Wake Island,威克岛,威克島,-,UMI,-,ISO includes with the US Minor Outlying Islands
 269,Wallis and Futuna,WLF,WF,WLF,876,,,Wallis & Futuna,瓦利斯和富图纳,瓦利斯群島和富圖那群島,WF|WLF|876,WLF,.wf,
 270,West Bank,XWB,PS,PSE,275,the State of Palestine,the State of Palestine,Palestine,巴勒斯坦,巴勒斯坦,PS|PSE|275,PSE,.ps,ISO identifies as Occupied Palestinian Territory
 271,Western Sahara,WI,EH,ESH,732,,,Western Sahara,西撒哈拉,西撒哈拉,EH|ESH|732,ESH,.eh,
-272,Western Samoa,-,,,,,,,,,-,-,.ws,see Samoa
-273,World,-,,,,,,,,,-,-,-,"the Factbook uses the W data code from DIAM 65-18 Geopolitical Data Elements and Related Features, Data Standard No. 3, December 1994, published by the Defense Intelligence Agency"
+272,Western Samoa,-,WS,WSM,882,,,Samoa,萨摩亚,薩摩亞,-,-,.ws,see Samoa
+273,World,001,001,001,,,,World,世界,世界,-,-,-,"the Factbook uses the W data code from DIAM 65-18 Geopolitical Data Elements and Related Features, Data Standard No. 3, December 1994, published by the Defense Intelligence Agency"
 274,Yemen,YEM,YE,YEM,887,Republic of Yemen,Republic of Yemen,Yemen,也门,葉門,YE|YEM|887,YEM,.ye,
-275,Zaire,-,,,,,,,,,-,-,-,see Democratic Republic of the Congo
+275,Zaire,-,CD,COD,180,,,Congo - Kinshasa,刚果（金）,剛果（金夏沙）,-,-,-,see Democratic Republic of the Congo
 276,Zambia,ZMB,ZM,ZMB,894,Republic of Zambia,Republic of Zambia,Zambia,赞比亚,尚比亞,ZM|ZMB|894,ZMB,.zm,
 277,Zimbabwe,ZWE,ZW,ZWE,716,Republic of Zimbabwe,Republic of Zimbabwe,Zimbabwe,津巴布韦,辛巴威,ZW|ZWE|716,ZWE,.zw,
