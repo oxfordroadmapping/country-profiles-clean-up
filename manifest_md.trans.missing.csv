@@ -1,9 +1,9 @@
 ,Code,Name,Category,Region,slug_Region,slug_Name,md_path,name_en,name_zh_Hans,name_zh_Hant
 196,ee,European Union,Other,Europe,europe,european-union,europe\european-union.md,European Union,欧盟,歐盟
-239,sx,South Georgia and South Sandwich Islands,Dependencies (United Kingdom),South America,south-america,south-georgia-and-south-sandwich-islands,south-america\south-georgia-and-south-sandwich-islands.md,South Georgia and South Sandwich Islands,南乔治亚，南三明治群岛,南喬治亞，南桑威奇群島
-248,um,United States Pacific Island Wildlife Refuges,Dependencies (United States),Australia-Oceania,australia-oceania,united-states-pacific-island-wildlife-refuges,australia-oceania\united-states-pacific-island-wildlife-refuges.md,United States Pacific Island Wildlife Refuges,美国太平洋岛屿野生动物保护区,美國太平洋島嶼野生動物保護區
+239,sx,South Georgia and South Sandwich Islands,Dependencies (United Kingdom),South America,south-america,south-georgia-and-south-sandwich-islands,south-america\south-georgia-and-south-sandwich-islands.md,South Georgia and South Sandwich Islands,南乔治亚，南三明治群岛,None
+248,um,United States Pacific Island Wildlife Refuges,Dependencies (United States),Australia-Oceania,australia-oceania,united-states-pacific-island-wildlife-refuges,australia-oceania\united-states-pacific-island-wildlife-refuges.md,United States Pacific Island Wildlife Refuges,美国太平洋岛屿野生动物保护区,None
 254,xq,Arctic Ocean,Oceans,Oceans,oceans,arctic-ocean,oceans\arctic-ocean.md,Arctic Ocean,北冰洋,北冰洋
-255,zh,Atlantic Ocean,Oceans,Oceans,oceans,atlantic-ocean,oceans\atlantic-ocean.md,Atlantic Ocean,大西洋,大西洋
+255,zh,Atlantic Ocean,Oceans,Oceans,oceans,atlantic-ocean,oceans\atlantic-ocean.md,Atlantic Ocean,大西洋,None
 256,xo,Indian Ocean,Oceans,Oceans,oceans,indian-ocean,oceans\indian-ocean.md,Indian Ocean,印度洋,印度洋
 257,zn,Pacific Ocean,Oceans,Oceans,oceans,pacific-ocean,oceans\pacific-ocean.md,Pacific Ocean,太平洋,太平洋
 258,oo,Southern Ocean,Oceans,Oceans,oceans,southern-ocean,oceans\southern-ocean.md,Southern Ocean,南大洋,南部海洋
